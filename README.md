@@ -65,3 +65,10 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 2. 运行 `OPUS-MT.GUI.exe`
 3. 从下拉框选择模型（自动加载）
 4. 输入原文，点击“翻译”
+
+---
+
+### Acknowledgments / 致谢
+- [Helsinki-NLP](https://huggingface.co/Helsinki-NLP) for OPUS-MT models
+- [LMSupply.Translator](https://github.com/LM-Supply/Translator) for ONNX runtime integration
+- [WPF-UI](https://github.com/lepoco/wpfui) for modern UI components
