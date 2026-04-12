@@ -16,7 +16,7 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 
 | File | Description |
 |------|-------------|
-| `OPUS-MT.GUI-DOTNET10-x64-WithModels.zip` | Full package including models (~1.6 GB). Extract and run `OPUS-MT.GUI.exe`. |
+| (OPUS-MT.GUI-DOTNET10-x64-WithModels.zip)[https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/releases/download/v1.0/OPUS-MT.GUI-DOTNET10-x64-WithModels.zip] | Full package including models (~1.6 GB). Extract and run `OPUS-MT.GUI.exe`. |
 
 > **Note**: The ZIP contains both ONNX models (en-zh, zh-en). If you need only one model, you can delete the other from the `models` folder.
 
@@ -51,7 +51,7 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 
 | 文件 | 说明 |
 |------|------|
-| `OPUS-MT.GUI-DOTNET10-x64-WithModels.zip` | 完整包（含模型），约 1.6 GB。解压后运行 `OPUS-MT.GUI.exe` 即可。 |
+| (OPUS-MT.GUI-DOTNET10-x64-WithModels.zip)[https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/releases/download/v1.0/OPUS-MT.GUI-DOTNET10-x64-WithModels.zip] | 完整包（含模型），约 1.6 GB。解压后运行 `OPUS-MT.GUI.exe` 即可。 |
 
 > **注意**：ZIP 包内包含两个 ONNX 模型（英译中、中译英）。如果只需要一个模型，可从 `models` 文件夹中删除另一个。
 
