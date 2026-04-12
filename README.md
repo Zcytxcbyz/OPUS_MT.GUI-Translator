@@ -72,3 +72,5 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 - [Helsinki-NLP](https://huggingface.co/Helsinki-NLP) for OPUS-MT models
 - [LMSupply.Translator](https://github.com/iyulab/lm-supply) for ONNX runtime integration
 - [WPF-UI](https://github.com/lepoco/wpfui) for modern UI components
+- [Microsoft.ML.OnnxRuntime.DirectML](https://github.com/microsoft/onnxruntime) for ONNX runtime
+- [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) for JSON parser
