@@ -74,3 +74,4 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 - [WPF-UI](https://github.com/lepoco/wpfui) for modern UI components
 - [Microsoft.ML.OnnxRuntime.DirectML](https://github.com/microsoft/onnxruntime) for ONNX runtime
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) for JSON parser
+- [CommunityToolkit.Mvvm](https://github.com/CommunityToolkit/dotnet) for MVVM framework
