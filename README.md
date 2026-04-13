@@ -24,7 +24,7 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 - No .NET installation required (runtime included)
 
 ### 📖 How to Use
-1. Download and extract the ZIP file
+1. Download and run the installer
 2. Run `OPUS-MT.GUI.exe`
 3. Select a model from the dropdown (auto‑loads)
 4. Enter source text, click **Translate**
@@ -57,7 +57,7 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 - 无需安装 .NET 运行时（已包含）
 
 ### 📖 使用方法
-1. 下载并解压 ZIP 文件
+1. 下载并运行安装程序
 2. 运行 `OPUS-MT.GUI.exe`
 3. 从下拉框选择模型（自动加载）
 4. 输入原文，点击“翻译”
