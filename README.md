@@ -1,5 +1,7 @@
 # OPUS-MT.GUI
 
+A WPF-based offline neural machine translation tool using ONNX Runtime and DirectML acceleration.
+
 ![Screenshot](https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/blob/main/screenshot.png)
 
 [English](#english) | [中文](#chinese)
