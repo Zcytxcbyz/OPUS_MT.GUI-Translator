@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/blob/main/screenshot.png)
+
 ## English
 
 ### 🚀 OPUS-MT.GUI - Release v1.3
