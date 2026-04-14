@@ -1,4 +1,5 @@
 ![Screenshot](https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/blob/main/screenshot.png)
+
 [English](#english) | [中文](#chinese)
 
 <a name="english"></a>
