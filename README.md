@@ -1,6 +1,6 @@
 ## English
 
-### 🚀 OPUS-MT.GUI - Release v1.2
+### 🚀 OPUS-MT.GUI - Release v1.3
 
 This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural machine translation tool using ONNX Runtime and DirectML acceleration.
 
@@ -16,7 +16,7 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 
 | File | Description |
 |------|-------------|
-| [OPUS-MT.GUI-DOTNET10-WIN-X64-WithModels-Setup.exe](https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/releases/download/v1.2/OPUS-MT.GUI-DOTNET10-WIN-X64-WithModels-Setup.exe) | Full package including models (~1.6 GB). Run the installer to set up the application. |
+| [OPUS-MT.GUI-DOTNET10-WIN-X64-WithModels-Setup-v1.3.exe](https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/releases/download/v1.3/OPUS-MT.GUI-DOTNET10-WIN-X64-WithModels-Setup-v1.3.exe) | Full package including models (~1.6 GB). Run the installer to set up the application. |
 
 ### 🖥️ System Requirements
 - Windows 10/11 (64-bit)
@@ -33,7 +33,7 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 
 ## 中文
 
-### 🚀 OPUS-MT.GUI - 发布版本 v1.2
+### 🚀 OPUS-MT.GUI - 发布版本 v1.3
 
 这是 **OPUS-MT.GUI** 的首个稳定版本，一个基于 WPF、使用 ONNX Runtime 和 DirectML 加速的离线神经机器翻译工具。
 
@@ -49,7 +49,7 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 
 | 文件 | 说明 |
 |------|------|
-| [OPUS-MT.GUI-DOTNET10-WIN-X64-WithModels-Setup.exe](https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/releases/download/v1.2/OPUS-MT.GUI-DOTNET10-WIN-X64-WithModels-Setup.exe) | 完整包（含模型），约 1.6 GB。运行安装程序即可安装应用。` 即可。 |
+| [OPUS-MT.GUI-DOTNET10-WIN-X64-WithModels-Setup-v1.3.exe](https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/releases/download/v1.3/OPUS-MT.GUI-DOTNET10-WIN-X64-WithModels-Setup-v1.3.exe) | 完整包（含模型），约 1.6 GB。运行安装程序即可安装应用。` 即可。 |
 
 ### 🖥️ 系统要求
 - Windows 10/11（64 位）
