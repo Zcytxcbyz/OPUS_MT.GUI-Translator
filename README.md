@@ -1,7 +1,8 @@
 ![Screenshot](https://github.com/Zcytxcbyz/OPUS_MT.GUI-Translator/blob/main/screenshot.png)
 
+<a name="english"></a>
 ## English
-[中文](##中文)
+[中文](#chinese)
 
 ### 🚀 OPUS-MT.GUI - Release v1.3
 
@@ -34,8 +35,9 @@ This is the first stable release of **OPUS-MT.GUI**, a WPF-based offline neural 
 
 ---
 
+<a name="chinese"></a>
 ## 中文
-[English](##English)
+[English](#english)
 
 ### 🚀 OPUS-MT.GUI - 发布版本 v1.3
 
