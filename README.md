@@ -6,6 +6,8 @@ A WPF-based offline neural machine translation tool using ONNX Runtime and Direc
 
 [English](#english) | [中文](#chinese)
 
+---
+
 <a name="english"></a>
 ## English
 
